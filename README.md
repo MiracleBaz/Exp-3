@@ -27,11 +27,12 @@ CLASS DIAGRAM
 
 COMMUNICATION DIAGRAM
 
-![image](https://github.com/user-attachments/assets/ba5fc101-f95c-4f4b-8ff7-074bd4b6bf8c)
+![image](https://github.com/user-attachments/assets/2d616c4e-5617-4844-8b54-4baadf2baa4a)
 
 ACTIVITY DIAGRAM
 
-![image](https://github.com/user-attachments/assets/ef888877-79ea-4470-99a6-e20abb43c79f)
+![image](https://github.com/user-attachments/assets/6d6521c6-1ef2-499d-975e-a52098ca35ee)
+
 
 PACKAGE DIAGRAM
 
@@ -39,7 +40,7 @@ PACKAGE DIAGRAM
 
 SEQUENCE DIAGRAM
 
-![image](https://github.com/user-attachments/assets/4f11f514-cebf-4d78-93bd-8d4a57faf5dc)
+![image](https://github.com/user-attachments/assets/0a610aae-c183-4abf-a802-6179002a6b1b)
 
 # RESULT:
 
